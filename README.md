@@ -6,7 +6,7 @@
 ## Lab 17
 ### Chris Merritt
 ### Links and Resources
-* [PR]()
+* [PR](https://github.com/401-advanced-javascript-merritt/lab-17/pull/1)
 
 #### Documentation
 
@@ -32,5 +32,5 @@
 #### Running the app
 1.  `node server.js`
 2.  `node logger.js`
-3.  `node app.js`
+3.  `node app.js files/test.txt`
  
