@@ -1,1 +1,1 @@
-THIS IS SOME SAMPLE TEXT
+hello pls uppercase
